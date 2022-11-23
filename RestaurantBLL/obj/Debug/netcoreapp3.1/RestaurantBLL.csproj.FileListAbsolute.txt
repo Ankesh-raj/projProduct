@@ -1,0 +1,15 @@
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantBLL.deps.json
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantBLL.dll
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantBLL.pdb
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantDAL.dll
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantEntity.dll
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantDAL.pdb
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\bin\Debug\netcoreapp3.1\RestaurantEntity.pdb
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.AssemblyInfo.cs
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.csproj.CopyComplete
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.dll
+C:\Users\ankesh.raj\Desktop\Resturant1\Restaurant_All\RestaurantManagement\RestaurantBLL\obj\Debug\netcoreapp3.1\RestaurantBLL.pdb
